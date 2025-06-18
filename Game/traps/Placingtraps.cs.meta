@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: c2de4556ea459ae45a6f529a4e9d2feb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cam: {instanceID: 0}
+  - smallTrap: {fileID: 5629533558799366784, guid: 45bd71fcabfd9634f9932cc8661e49e1,
+      type: 3}
+  - previewSmallTrap: {fileID: 5629533558799366784, guid: ac0caf7366823e94684ad0f146e922a2,
+      type: 3}
+  - barrack: {fileID: 5629533558799366784, guid: 41cf29db5a1fa4947aa769c59aa0a124,
+      type: 3}
+  - previewBarrack: {fileID: 5629533558799366784, guid: c4db1f649b487e34f9c71851d48ee607,
+      type: 3}
+  - smallWallTrap: {fileID: 5629533558799366784, guid: 3f7dc5f10e10f1b4f8045ca8d4fc21ac,
+      type: 3}
+  - previewSmallWallTrap: {fileID: 5629533558799366784, guid: 4e385bed037fe144c968e3d1448a2294,
+      type: 3}
+  - roofTrap: {fileID: 5629533558799366784, guid: 3f7dc5f10e10f1b4f8045ca8d4fc21ac,
+      type: 3}
+  - previewRoofTrap: {fileID: 5629533558799366784, guid: 53b8699125074964f9fb66c271c9d4c4,
+      type: 3}
+  - trapUI: {instanceID: 0}
+  - selectdTrap: {instanceID: 0}
+  - prevesualize: {instanceID: 0}
+  - previewGood: {fileID: -6465566751694194690, guid: d3d621bb90a38644ab4a8c08c3157960,
+      type: 3}
+  - previewBad: {fileID: -6465566751694194690, guid: 9f2ca0724d122684699d7d7bbfb464f2,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
